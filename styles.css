@@ -1,0 +1,95 @@
+body{
+    background-color: #F7EDE2;
+    color: #F28482;
+    font-family: 'Times New Roman', Times, serif;
+}
+section{
+    position: relative;
+    margin: 50px;
+    text-align: center;
+    font-size: 50px;
+}
+
+input[type="text"]{
+    width: 200px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #F5CAC3;
+    color: #893b3a;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid #b98a3e;
+}
+
+input[type="email"]{
+    width: 200px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #F5CAC3;
+    color: #893b3a;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid #b98a3e;
+}
+
+input[type="password"]{
+    width: 200px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #F5CAC3;
+    color: #893b3a;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid #b98a3e;
+}
+
+textarea{
+    width: 500px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #F5CAC3;
+    color: #893b3a;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid #b98a3e;
+}
+
+select{
+    width: 200px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #F5CAC3;
+    color: #893b3a;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid #b98a3e;
+}
+
+input[type="submit"]{
+    width: 200px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #F5CAC3;
+    color: #893b3a;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid #b98a3e;
+}
+
+input[type="reset"]{
+    width: 200px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #F5CAC3;
+    color: #893b3a;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid #b98a3e;
+}
